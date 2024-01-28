@@ -18,14 +18,9 @@ Enhance your experience on Prolific with the Prolific SoundAlert & Currency Conv
 ## Usage
 
 - **Managing Sound Alerts**: Use the sound icon in the Prolific interface to toggle sound notifications on or off as needed.
-![Sound Alert Demo](https://github.com/dukk47/prolific-soundalert-currency-converter/blob/main/demo-gifs/sound-alert-demo.gif)
-
 - **Ignoring Studies**: Use the Ignore/Unignore buttons added to each study listing. Ignoring a study prevents sound alerts for that specific study, allowing you to focus on studies you're interested in.
+- **Currency Conversion**: Change the currency display by selecting your preferred currency from the added currency buttons.
   
-![Ignore Demo](https://github.com/dukk47/prolific-soundalert-currency-converter/blob/main/demo-gifs/ignore-demo.gif)
-![Currency Conversion GIF](https://github.com/dukk47/prolific-soundalert-currency-converter/blob/main/demo-gifs/currency_1_demo.gif)
-
-  **Currency Conversion**: Change the currency display by selecting your preferred currency from the added currency buttons.
   ![Currency Conversion GIF](https://github.com/dukk47/prolific-soundalert-currency-converter/blob/main/demo-gifs/currency_demo.gif)
 
 
