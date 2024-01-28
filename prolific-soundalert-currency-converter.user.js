@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  A Tampermonkey script for Prolific users: Get notified with sound alerts for new studies and easily convert currencies.
-// @author       Ihr Name
+// @author       Jonas Stempel
 // @match        https://app.prolific.com/studies*
 // @grant        GM_setValue
 // @grant        GM_getValue
