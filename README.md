@@ -1,6 +1,6 @@
 # Prolific SoundAlert & Currency Converter
 
-Enhance your experience on Prolific with the Prolific SoundAlert & Currency Converter, a Tampermonkey script designed to provide real-time sound notifications for new studies and a handy currency conversion tool.
+Enhance your experience on Prolific.com with the Prolific SoundAlert & Currency Converter, a Tampermonkey script designed to provide real-time sound notifications for new studies and a handy currency conversion tool.
 
 ## Features
 
