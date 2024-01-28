@@ -21,6 +21,7 @@ Enhance your experience on Prolific with the Prolific SoundAlert & Currency Conv
 ![Sound Alert Demo](https://github.com/dukk47/prolific-soundalert-currency-converter/blob/main/demo-gifs/sound-alert-demo.gif)
 
 - **Ignoring Studies**: Use the Ignore/Unignore buttons added to each study listing. Ignoring a study prevents sound alerts for that specific study, allowing you to focus on studies you're interested in.
+  
 ![Ignore Demo](https://github.com/dukk47/prolific-soundalert-currency-converter/blob/main/demo-gifs/ignore-demo.gif)
 ![Currency Conversion GIF](https://github.com/dukk47/prolific-soundalert-currency-converter/blob/main/demo-gifs/currency_1_demo.gif)
 
